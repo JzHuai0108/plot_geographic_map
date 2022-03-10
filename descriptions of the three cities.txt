@@ -1,0 +1,24 @@
+The following are descriptions of the three cities.
+
+Beijing, the capital of People's Republic of China, is situated at the north tip of the North China plain, with mountains to its north and west, having more than 21 million residents in a total area of 16410.5 square kilometers. Its urban population makes it the second largest Chinese city. It is also the cultural, educational, and political center of the nation.
+Its climate is humid continental, influenced by monsoon, with hot humid summers and cold dry winters.
+The city used to have poor air quality especially in winter caused by factors including car exhaust emission, manufacturing in surrounding regions, and coal burning.
+
+Shijiazhuang, the capital city of Hebei province, is situated at the west edge of the North China plain and the east foot of the Taihang Mountains, about 266 kilometers southwest to Beijing.
+Its climate is semi-arid continental, influenced by monsoon, with hot humid summers and cold dry winters.
+Having a population of about 11 million, it is one major industrial city in North China, with a state-level industrial zone.
+Its poor air quality used to make it ranked high for air pollution in the nation and the world.
+
+
+Wuhan, the capital city the Hubei Province, is situated at the confluence of the Yangtze river and the Han river, having a total area of 8494.4 square kilometers. Its urban area consists of three towns, Wuchang, Hankou, and Hanyang, with 25% covered by water. 
+Its climate is humid subtropical with abundant rainfall in summer and four distinct seasons.
+It has a population of more than 11 million, making it the most populous city in Central China, 
+It is also an industrial hub in Central China, with 3 state-level industrial zones and over 350 research institutes. 
+The coronavirus leading to the COVID-19 epidemic was first discovered in Wuhan in Dec 2019.
+
+
+
+References
+[1] Beijing. https://en.wikipedia.org/wiki/Beijing
+[2] Shijiazhuang. https://en.wikipedia.org/wiki/Shijiazhuang and https://www.britannica.com/place/Shijiazhuang
+[3] Wuhan. https://en.wikipedia.org/wiki/Wuhan
